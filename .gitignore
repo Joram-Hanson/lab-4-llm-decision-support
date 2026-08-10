@@ -1,0 +1,14 @@
+faculty/
+.vscode/
+.history/
+AI/
+cache/
+tutorials/
+.venv
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
